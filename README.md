@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **vue.js ,Js**
 
-- 👯 I’m looking to collaborate on **backend projects with larave;**
+- 👯 I’m looking to collaborate on **backend projects with laravel**
 
 - 💬 Ask me about **php,mysql**
 
